@@ -22,11 +22,10 @@ Iterate the list of lines and increment the value of variable (word) each time.
 Run the program to determine the number of words in the file created.
 
 ## PROGRAM:
-```python
-'''Program for getting the word count from the contents of a file using command line arguments
-Developed by: T.Ajay
-Reference number: 212223230007
-''''
+#Program for getting the word count from the contents of a file using command line arguments
+#Developed by: T.Ajay
+#Reference number: 212223230007
+```
 import sys
 count = {}
 total_count = 0
@@ -43,7 +42,7 @@ print(f"\nTotal word count: {total_count}")
 
 ```
 ### OUTPUT:
-![Screenshot 2023-12-27 173957](https://github.com/Ajayreddy-2006/command-line-arguments-to-count-word/assets/145742508/85ab58ab-f652-409d-b103-f95653fa7e04)
+![image](https://github.com/Ajayreddy-2006/command-line-arguments-to-count-word/assets/145742508/10a1dee7-9beb-4317-a0cb-525f502c0e18)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
